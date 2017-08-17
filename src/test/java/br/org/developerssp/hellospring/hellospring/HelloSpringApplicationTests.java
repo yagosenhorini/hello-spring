@@ -1,4 +1,4 @@
-package br.org.developersp.hellospring.hellospring;
+package br.org.developerssp.hellospring.hellospring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
